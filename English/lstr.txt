@@ -1,0 +1,12 @@
+showBtn|Show browsing panel
+printBtn|Print page
+nav-left|Previous topic
+nav-top|Parent topic
+nav-right|Next topic
+downP-Hide|Close panel
+downP-ToggleFS|Toggle fullscreen view
+downP-SwitchColorMode|Change color mode
+downP-ChangeLanguage|Change language
+downP-Home|Home
+downP-TopicTree|Table of Contents
+HEADING_SELECT_LEFT|Select item from left
