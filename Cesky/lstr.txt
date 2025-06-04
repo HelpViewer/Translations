@@ -1,0 +1,12 @@
+showBtn|Zobrazit panel prohlížení
+printBtn|Vytisknout
+nav-left|Předchozí
+nav-top|O úroveň výš
+nav-right|Následující
+downP-Hide|Skrýt panel
+downP-ToggleFS|Přepnout full screen
+downP-SwitchColorMode|Změnit schéma barev
+downP-ChangeLanguage|Změnit jazyk prostředí
+downP-Home|Domů
+downP-TopicTree|Seznam témat
+HEADING_SELECT_LEFT|Vyberte položku z panelu prohlížení
