@@ -10,3 +10,4 @@ downP-ChangeLanguage|Změnit jazyk prostředí
 downP-Home|Domů
 downP-TopicTree|Seznam témat
 HEADING_SELECT_LEFT|Vyberte položku z panelu prohlížení
+downP-ChapterAnchor|Části vybrané kapitoly
