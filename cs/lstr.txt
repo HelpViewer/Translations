@@ -12,3 +12,4 @@ downP-TopicTree|Seznam témat
 HEADING_SELECT_LEFT|Vyberte položku z panelu prohlížení
 downP-ChapterAnchor|Části vybrané kapitoly
 downP-Glossary|Slovník klíčových slov
+downP-Fulltext|Fulltextové vyhledávání

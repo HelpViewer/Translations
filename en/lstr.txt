@@ -12,3 +12,4 @@ downP-TopicTree|Table of Contents
 HEADING_SELECT_LEFT|Select item from left
 downP-ChapterAnchor|Subsections of the selected chapter
 downP-Glossary|Glossary
+downP-Fulltext|Fulltext search
