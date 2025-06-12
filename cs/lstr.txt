@@ -13,3 +13,7 @@ HEADING_SELECT_LEFT|Vyberte položku z panelu prohlížení
 downP-ChapterAnchor|Části vybrané kapitoly
 downP-Glossary|Slovník klíčových slov
 downP-Fulltext|Fulltextové vyhledávání
+keywordList-i__placeholder|Zadejte slovo, stiskněte Enter
+fulltextList-i__placeholder|Zadejte slovo, stiskněte Enter
+keywordList-i|Zadejte slovo
+fulltextList-i|Zadejte slovo

@@ -13,3 +13,7 @@ HEADING_SELECT_LEFT|Select item from left
 downP-ChapterAnchor|Subsections of the selected chapter
 downP-Glossary|Glossary
 downP-Fulltext|Fulltext search
+keywordList-i__placeholder|Type text, press Enter
+fulltextList-i__placeholder|Type text, press Enter
+keywordList-i|Type phrase here
+fulltextList-i|Type phrase here
