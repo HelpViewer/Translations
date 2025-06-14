@@ -17,3 +17,4 @@ keywordList-i__placeholder|Zadejte slovo, stiskněte Enter
 fulltextList-i__placeholder|Zadejte slovo, stiskněte Enter
 keywordList-i|Zadejte slovo
 fulltextList-i|Zadejte slovo
+downP-ToggleSide|Přesunout panel na druhou stranu

@@ -17,3 +17,4 @@ keywordList-i__placeholder|Type text, press Enter
 fulltextList-i__placeholder|Type text, press Enter
 keywordList-i|Type phrase here
 fulltextList-i|Type phrase here
+downP-ToggleSide|Move panel to opposite side
