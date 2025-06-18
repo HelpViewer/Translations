@@ -15,6 +15,6 @@ downP-Glossary|Slovník klíčových slov
 downP-Fulltext|Fulltextové vyhledávání
 keywordList-i__placeholder|Zadejte slovo, stiskněte Enter
 fulltextList-i__placeholder|Zadejte slovo, stiskněte Enter
-keywordList-i|Zadejte slovo
-fulltextList-i|Zadejte slovo
+keywordList-i|Zadejte slovo, stiskněte Enter
+fulltextList-i|Zadejte slovo, stiskněte Enter
 downP-ToggleSide|Přesunout panel na druhou stranu
