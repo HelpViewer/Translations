@@ -18,3 +18,5 @@ fulltextList-i__placeholder|Type text, press Enter
 keywordList-i|Type phrase here, press Enter
 fulltextList-i|Type phrase here, press Enter
 downP-ToggleSide|Move panel to opposite side
+toolbar__aria-label|Topic navigation
+sidebar__aria-label|Main navigation

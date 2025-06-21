@@ -18,3 +18,5 @@ fulltextList-i__placeholder|Zadejte slovo, stiskněte Enter
 keywordList-i|Zadejte slovo, stiskněte Enter
 fulltextList-i|Zadejte slovo, stiskněte Enter
 downP-ToggleSide|Přesunout panel na druhou stranu
+toolbar__aria-label|Místní navigace tématu
+sidebar__aria-label|Hlavní navigace
