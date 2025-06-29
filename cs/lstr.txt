@@ -20,3 +20,11 @@ fulltextList-i|Zadejte slovo, stiskněte Enter
 downP-ToggleSide|Přesunout panel na druhou stranu
 toolbar__aria-label|Místní navigace tématu
 sidebar__aria-label|Hlavní navigace
+_viewRepo-h1|👀 Podívejte se na svůj repozitář
+_viewRepo-par1|Tento průvodce vám pomůže zobrazit vlastní úložiště v aplikaci HelpViewer. Nejedná se o migraci - některé funkce jsou omezené nebo ještě nemusí fungovat. Ale může to být právě první krok k výběru nástroje, který vám bude vyhovovat. Stačí zadat některé informace níže a kliknutím na vygenerovaný odkaz začít.
+_viewRepo-par2|🛈 Tento náhled používá veřejný obsah z GitHubu.<br />Pokud je váš repozitář soukromý, náhled nebude fungovat.<br />Vše se spouští pouze v prohlížeči.
+_viewRepo-link|Odkaz
+_viewRepo-org|Organizace/Uživatel
+_viewRepo-repo|Repozitář
+_viewRepo-branch|Větev/Tag
+_viewRepo-langs|Podsložky s jazyky

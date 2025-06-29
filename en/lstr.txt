@@ -20,3 +20,11 @@ fulltextList-i|Type phrase here, press Enter
 downP-ToggleSide|Move panel to opposite side
 toolbar__aria-label|Topic navigation
 sidebar__aria-label|Main navigation
+_viewRepo-h1|👀 View your own repository
+_viewRepo-par1|This guide helps you see your own repository inside HelpViewer. It's not a migration - some features are limited or might not work just yet. But it might just be the first step toward choosing a tool that fits you. Just enter some information below and click the generated link to get started.
+_viewRepo-par2|🛈 This preview uses public content from GitHub.<br />If your repository is private, the preview will not work.<br />Everything runs in your browser only.
+_viewRepo-link|Link
+_viewRepo-org|Organization/User
+_viewRepo-repo|Repository
+_viewRepo-branch|Branch/Tag
+_viewRepo-langs|Language&nbsp;subdirectories
