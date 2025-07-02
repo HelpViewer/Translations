@@ -29,3 +29,4 @@ _viewRepo-repo|Repository
 _viewRepo-branch|Branch/Tag
 _viewRepo-langs|Language&nbsp;subdirectories
 _viewRepo-zip|Browse ZIP release
+downP-ChangeVersion|Search for other version
