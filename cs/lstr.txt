@@ -30,3 +30,4 @@ _viewRepo-branch|Větev/Tag
 _viewRepo-langs|Podsložky s jazyky
 _viewRepo-zip|Procházet ZIP release
 downP-ChangeVersion|Najít jinou verzi nápovědy
+versionList|Historie verzí
