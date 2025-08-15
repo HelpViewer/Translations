@@ -31,3 +31,6 @@ _viewRepo-langs|Language&nbsp;subdirectories
 _viewRepo-zip|Browse ZIP release
 downP-ChangeVersion|Search for other version
 versionList|Version history
+downP-ShowAsBook|Show all chapters as book
+helpfile|Help file
+version|Version
