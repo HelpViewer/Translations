@@ -34,3 +34,4 @@ versionList|Historie verzí
 downP-ShowAsBook|Zobrazit všechny kapitoly jako jeden dokument
 helpfile|Soubor nápovědy
 version|Verze
+source|Zdroj

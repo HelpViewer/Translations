@@ -34,3 +34,4 @@ versionList|Version history
 downP-ShowAsBook|Show all chapters as book
 helpfile|Help file
 version|Version
+source|Source
