@@ -35,3 +35,6 @@ downP-ShowAsBook|Show all chapters as book
 helpfile|Help file
 version|Version
 source|Source
+cbPageBreak|Page break after chapter
+IconPrint|Icon print
+IconPrintItems|Remove;Keep;Author's
