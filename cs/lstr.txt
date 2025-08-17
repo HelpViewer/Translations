@@ -38,3 +38,4 @@ source|Zdroj
 cbPageBreak|Zalomení stránky na konci kapitoly
 IconPrint|Tisk ikonek
 IconPrintItems|Odebrat;Ponechat;Podle autora
+editRepoBtn|Editovat v repozitáři

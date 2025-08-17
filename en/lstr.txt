@@ -38,3 +38,4 @@ source|Source
 cbPageBreak|Page break after chapter
 IconPrint|Icon print
 IconPrintItems|Remove;Keep;Author's
+editRepoBtn|Edit in repository
