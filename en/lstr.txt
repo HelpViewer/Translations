@@ -45,5 +45,5 @@ oeod_inst|Plugin instance
 oeod_grp|Plugin group
 TECH|Technology plugins
 UI|UI plugins
-RENDER|Ooutput rendering
+RENDER|Output rendering
 HELPSYSTEM|HelpViewer
