@@ -40,3 +40,10 @@ IconPrint|Icon print
 IconPrintItems|Remove;Keep;Author's
 editRepoBtn|Edit in repository
 downP-ObjectExplorer|Object explorer
+oeod_plg|Plugin
+oeod_inst|Plugin instance
+oeod_grp|Plugin group
+TECH|Technology plugins
+UI|UI plugins
+RENDER|Ooutput rendering
+HELPSYSTEM|HelpViewer

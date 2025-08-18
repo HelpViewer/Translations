@@ -40,3 +40,10 @@ IconPrint|Tisk ikonek
 IconPrintItems|Odebrat;Ponechat;Podle autora
 editRepoBtn|Editovat v repozitáři
 downP-ObjectExplorer|Prohlížeč objektů
+oeod_plg|Zásuvný modul
+oeod_inst|Instance zásuvného modulu
+oeod_grp|Skupina modulů
+TECH|Technologické moduly
+UI|UI moduly
+RENDER|Formátování výstupu
+HELPSYSTEM|HelpViewer
