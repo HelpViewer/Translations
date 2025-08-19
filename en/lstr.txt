@@ -47,3 +47,20 @@ TECH|Technology plugins
 UI|UI plugins
 RENDER|Output rendering
 HELPSYSTEM|HelpViewer
+overview|Overview
+oeod_plg|Plugin
+oeod_inst|Plugin instance
+oeod_evt|Event with handler
+oeod_evtD|Event definition (without handler)
+oeod_hdl|Event handler (listener)
+oeod_cfg|Configuration key defined by plugin
+oeod_cfgE|Configuration key defined by configuration file. Not defined in plugin by direct name (dynamic keys)
+oeod_btn|UI button
+oeod_page|UI tab/page
+oeod_tree|UI tree
+oeod_|Document
+oeod_und|Unknown/unidentified item (incomplete or incorrect definitions)
+TECH-D|Responsive for plugin (de)init handling, GET params processing, managing and dispatching resource storages requests, mouse click events conversion and filtering and dispatch events in the app
+UI-D|All plugins with UI controls and panels
+RENDER-D|Rendering of topic content (md, HTML) and prior print operations
+HELPSYSTEM-D|HelpViewer specific plugins, e.g. index files for chapters or dictionaries

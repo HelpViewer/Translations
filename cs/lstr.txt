@@ -47,3 +47,20 @@ TECH|Technologické moduly
 UI|UI moduly
 RENDER|Formátování výstupu
 HELPSYSTEM|HelpViewer
+overview|Přehled
+oeod_plg|Zásuvný modul
+oeod_inst|Instance modulu
+oeod_evt|Událost včetně obsluhy
+oeod_evtD|Definice události (bez obsluhy)
+oeod_hdl|Obsluha události, posluchač
+oeod_cfg|Konfigurační volba definovaná modulem
+oeod_cfgE|Konfigurační volba definovaná v konfiguračním souboru. Není přímým jménem uvedena v modulu (dynamické klíče)
+oeod_btn|UI tlačítko
+oeod_page|UI stránka/karta
+oeod_tree|UI strom
+oeod_|Dokument
+oeod_und|Neznámý nebo neidentifikovaný prvek (nekompletní a chybné definice)
+TECH-D|Odpovídají za správu zásuvných modulů, jejich inicializaci a deinicializaci, zpracování GET parametrů URI adresy, směrování požaadavků na zdrojová úložiště (ZIP archivy, adresáře, síť), konverze události kliknutí myši, filtraci a směrování událostí uvnitř aplikace
+UI-D|Zajišťují prvky uživatelského rozhraní nebo panely
+RENDER-D|Formátování obsahu kapitol (md, HTML) a předtiskové operace
+HELPSYSTEM-D|Specifické moduly pro HelpViewer specific, například správa indexových souborů pro kapitoly a slovníky
