@@ -60,7 +60,7 @@ oeod_page|UI stránka/karta
 oeod_tree|UI strom
 oeod_|Dokument
 oeod_und|Neznámý nebo neidentifikovaný prvek (nekompletní a chybné definice)
-TECH-D|Odpovídají za správu zásuvných modulů, jejich inicializaci a deinicializaci, zpracování GET parametrů URI adresy, směrování požaadavků na zdrojová úložiště (ZIP archivy, adresáře, síť), konverze události kliknutí myši, filtraci a směrování událostí uvnitř aplikace
+TECH-D|Odpovídají za správu zásuvných modulů, jejich inicializaci a deinicializaci, zpracování GET parametrů URI adresy, směrování požadavků na zdrojová úložiště (ZIP archivy, adresáře, síť), konverze události kliknutí myši, filtraci a směrování událostí uvnitř aplikace
 UI-D|Zajišťují prvky uživatelského rozhraní nebo panely
 RENDER-D|Formátování obsahu kapitol (md, HTML) a předtiskové operace
 HELPSYSTEM-D|Specifické moduly pro HelpViewer specific, například správa indexových souborů pro kapitoly a slovníky
