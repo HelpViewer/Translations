@@ -64,3 +64,7 @@ TECH-D|Responsive for plugin (de)init handling, GET params processing, managing 
 UI-D|All plugins with UI controls and panels
 RENDER-D|Rendering of topic content (md, HTML) and prior print operations
 HELPSYSTEM-D|HelpViewer specific plugins, e.g. index files for chapters or dictionaries
+uiobject|UI component
+event|Event
+cfgopt|Configuration key
+hdl|Handling events
