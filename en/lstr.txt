@@ -68,3 +68,6 @@ uiobject|UI component
 event|Event
 cfgopt|Configuration key
 hdl|Handling events
+default|Default
+value|Value
+name|Name

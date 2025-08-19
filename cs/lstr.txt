@@ -68,3 +68,6 @@ uiobject|UI prvek
 event|Událost
 cfgopt|Konfigurační volba
 hdl|Naslouchá
+default|Výchozí
+value|Hodnota
+name|Jméno
