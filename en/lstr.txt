@@ -71,3 +71,5 @@ hdl|Handling events
 default|Default
 value|Value
 name|Name
+openToIdAll|Accepts all messages, does not take ID into account
+openToId|Accepts all messages with the same ID as plugin instance ID

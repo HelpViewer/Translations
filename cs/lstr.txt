@@ -71,3 +71,5 @@ hdl|Naslouchá
 default|Výchozí
 value|Hodnota
 name|Jméno
+openToIdAll|Přijímá všechny zprávy, id nezohledňuje
+openToId|Přijímá všechny zprávy s id instance modulu
