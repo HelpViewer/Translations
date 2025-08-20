@@ -75,3 +75,4 @@ openToIdAll|Přijímá všechny zprávy, id nezohledňuje
 openToId|Přijímá všechny zprávy s id instance modulu
 meaning|Význam
 datatype|Datový typ
+date|Datum
