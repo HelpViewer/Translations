@@ -80,3 +80,4 @@ eventIdStrict1|strict equality filter (exact equality of messages id required)
 eventIdStrict0|id not filtered (all message ids/groups dispatched here)
 oeod_grpproc|Integrated process
 oeod_grpproc-D|Integrated processes list. Group by plugins id.
+resources|Resources
