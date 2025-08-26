@@ -79,3 +79,4 @@ date|Datum
 eventIdStrict1|požadována striktní shoda id v událostech
 eventIdStrict0|id v událostech nefiltrováno
 oeod_grpproc|Integrovaný proces
+oeod_grpproc-D|Seznam integrovaných procesů. Sloučeno podle id zásuvných modulů.
