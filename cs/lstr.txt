@@ -81,3 +81,5 @@ eventIdStrict0|id v událostech nefiltrováno
 oeod_grpproc|Integrovaný proces
 oeod_grpproc-D|Seznam integrovaných procesů. Sloučeno podle id zásuvných modulů.
 resources|Zdroje
+oeod_res|Zdroj
+size|Velikost
