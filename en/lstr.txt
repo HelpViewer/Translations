@@ -83,3 +83,4 @@ oeod_grpproc-D|Integrated processes list. Group by plugins id.
 resources|Resources
 oeod_res|Resource
 size|Size
+downP-TogglePresMode|Presentation mode

@@ -83,3 +83,4 @@ oeod_grpproc-D|Seznam integrovaných procesů. Sloučeno podle id zásuvných mo
 resources|Zdroje
 oeod_res|Zdroj
 size|Velikost
+downP-TogglePresMode|Prezentační režim
