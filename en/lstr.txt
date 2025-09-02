@@ -48,8 +48,6 @@ UI|UI plugins
 RENDER|Output rendering
 HELPSYSTEM|HelpViewer
 overview|Overview
-oeod_plg|Plugin
-oeod_inst|Plugin instance
 oeod_evt|Event with handler
 oeod_evtD|Event definition (without handler)
 oeod_hdl|Event handler (listener)
@@ -84,3 +82,7 @@ resources|Resources
 oeod_res|Resource
 size|Size
 downP-TogglePresMode|Presentation mode
+commPath|Communication paths
+filter|Filter
+direction|Direction
+transmitter|Transmitter

@@ -48,8 +48,6 @@ UI|UI moduly
 RENDER|Formátování výstupu
 HELPSYSTEM|HelpViewer
 overview|Přehled
-oeod_plg|Zásuvný modul
-oeod_inst|Instance modulu
 oeod_evt|Událost včetně obsluhy
 oeod_evtD|Definice události (bez obsluhy)
 oeod_hdl|Obsluha události, posluchač
@@ -84,3 +82,7 @@ resources|Zdroje
 oeod_res|Zdroj
 size|Velikost
 downP-TogglePresMode|Prezentační režim
+commPath|Komunikační cesty
+filter|Filtr
+direction|Směr
+transmitter|Vysílač
