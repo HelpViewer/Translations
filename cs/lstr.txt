@@ -85,4 +85,4 @@ downP-TogglePresMode|Prezentační režim
 commPath|Komunikační cesty
 filter|Filtr
 direction|Směr
-transmitter|Vysílač
+transmitter|Vysílá
