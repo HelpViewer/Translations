@@ -86,3 +86,4 @@ commPath|Communication paths
 filter|Filter
 direction|Direction
 transmitter|Transmitter
+interactDiagram|Interaction Diagram
