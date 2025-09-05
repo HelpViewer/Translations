@@ -89,3 +89,4 @@ transmitter|Vysílá
 interactDiagram|Interakční diagram
 oeod_tra|Vysílač události
 dependTree|Strom dědičnosti
+source|Zdroj
