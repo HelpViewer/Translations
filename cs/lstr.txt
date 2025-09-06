@@ -92,3 +92,5 @@ dependTree|Strom dědičnosti
 source|Zdroj
 orderLoading|Pořadí načtení pluginů
 oeod_cpp|Zdrojový kód
+sysevent|Zpracování systémové události
+oeod_evtSys|Zpracování systémové události (zapouzdřené volání metod add/remove-EventListener)
