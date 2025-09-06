@@ -42,7 +42,7 @@ editRepoBtn|Editovat v repozitáři
 downP-ObjectExplorer|Prohlížeč objektů
 oeod_plg|Zásuvný modul
 oeod_inst|Instance zásuvného modulu
-oeod_grp|Skupina modulů
+oeod_grp|Skupina modulů (ikony jsou určeny konfiguračními klíči v puiButtonObjectExplorer)
 TECH|Technologické moduly
 UI|UI moduly
 RENDER|Formátování výstupu
@@ -90,3 +90,5 @@ interactDiagram|Interakční diagram
 oeod_tra|Vysílač události
 dependTree|Strom dědičnosti
 source|Zdroj
+orderLoading|Pořadí načtení pluginů
+oeod_cpp|Zdrojový kód

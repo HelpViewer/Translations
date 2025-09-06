@@ -42,7 +42,7 @@ editRepoBtn|Edit in repository
 downP-ObjectExplorer|Object explorer
 oeod_plg|Plugin
 oeod_inst|Plugin instance
-oeod_grp|Plugin group
+oeod_grp|Plugin group (icons specified by configuration keys in puiButtonObjectExplorer)
 TECH|Technology plugins
 UI|UI plugins
 RENDER|Output rendering
@@ -90,3 +90,5 @@ interactDiagram|Interaction Diagram
 oeod_tra|Transmitter of event
 dependTree|Dependency tree
 source|Source
+orderLoading|Loading order
+oeod_cpp|Source code
