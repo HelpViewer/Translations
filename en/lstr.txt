@@ -69,12 +69,12 @@ hdl|Handling events
 default|Default
 value|Value
 name|Name
-openToIdAll|Accepts all messages, does not take ID into account
-openToId|Accepts all messages with the same ID as plugin instance ID
+openToIdAll|Accepts all events, does not take ID into account
+openToId|Accepts all events with the same ID as plugin instance ID
 meaning|meaning
 datatype|Data type
 date|Date
-eventIdStrict1|strict equality filter (exact equality of messages id required)
+eventIdStrict1|strict equality filter (exact equality of events id required)
 eventIdStrict0|id not filtered (all message ids/groups dispatched here)
 oeod_grpproc|Integrated process
 oeod_grpproc-D|Integrated processes list. Group by plugins id.
