@@ -41,3 +41,5 @@ IconPrintItems|Odebrat;Ponechat;Podle autora
 editRepoBtn|Editovat v repozitáři
 date|Datum
 downP-TogglePresMode|Prezentační režim
+downP-UserNotes|Poznámky
+notes-add|Přidat poznámku

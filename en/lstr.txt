@@ -41,3 +41,5 @@ IconPrintItems|Remove;Keep;Author's
 editRepoBtn|Edit in repository
 date|Date
 downP-TogglePresMode|Presentation mode
+downP-UserNotes|Notes
+notes-add|Add note
