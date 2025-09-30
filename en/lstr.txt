@@ -43,3 +43,8 @@ date|Date
 downP-TogglePresMode|Presentation mode
 downP-UserNotes|Notes
 notes-add|Add note
+notes-visible|Notes visibility
+notes-export|Export all help notes
+notes-clear|Delete all help notes
+notesQuestion|Do you want to delete all help notes?
+notes-import|Import notes
