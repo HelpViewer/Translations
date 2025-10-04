@@ -48,3 +48,4 @@ notes-export|Exportovat poznámky
 notes-clear|Smazat všechny poznámky k nápovědě
 notesQuestion|Chcete smazat všechny poznámky k nápovědě?
 notes-import|Importovat poznámky
+downP-selSkin|Vybrat styl

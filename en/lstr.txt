@@ -48,3 +48,4 @@ notes-export|Export all help notes
 notes-clear|Delete all help notes
 notesQuestion|Do you want to delete all help notes?
 notes-import|Import notes
+downP-selSkin|Select skin
