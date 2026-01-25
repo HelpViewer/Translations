@@ -50,3 +50,7 @@ notesQuestion|Do you want to delete all help notes?
 notes-import|Import notes
 downP-selSkin|Select skin
 downP-export|Export
+downP-export-lab__innerText|Export
+downP-selSkin-lab__innerText|Select skin
+downP-selSkin__aria-label|
+downP-export__aria-label|

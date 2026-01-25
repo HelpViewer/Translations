@@ -50,3 +50,7 @@ notesQuestion|Chcete smazat všechny poznámky k nápovědě?
 notes-import|Importovat poznámky
 downP-selSkin|Vybrat styl
 downP-export|Exportovat
+downP-export-lab__innerText|Exportovat
+downP-selSkin-lab__innerText|Vybrat styl
+downP-selSkin__aria-label|
+downP-export__aria-label|
