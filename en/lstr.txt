@@ -54,3 +54,4 @@ downP-export-lab__innerText|Export
 downP-selSkin-lab__innerText|Select skin
 downP-selSkin__aria-label|
 downP-export__aria-label|
+cbExportDictionary|Static: Export dictionaries

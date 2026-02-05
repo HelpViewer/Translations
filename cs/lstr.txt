@@ -54,3 +54,4 @@ downP-export-lab__innerText|Exportovat
 downP-selSkin-lab__innerText|Vybrat styl
 downP-selSkin__aria-label|
 downP-export__aria-label|
+cbExportDictionary|Static: Exportovat slovníky
